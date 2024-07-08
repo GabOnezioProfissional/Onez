@@ -1,0 +1,21 @@
+{
+  "name": "Onez",
+  "short_name": "Onez",
+  "description": "Esse site vai revolucionar o modo de compras e de ver ol nosso universo",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://img.playbook.com/KkEbru1kR4MmbQ5pelVMigdFsIuddyJo6GgQ6ws4DTs/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzMzZjdjYTJh/LThhZTItNGQxYi1i/ODA2LWViOTkzYmFl/NTVhMg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.playbook.com/7h5pkQFyEE_xuNA54ZgZMwmG5Tae1bAdE2ZN9kcVyGI/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2E1MTI4YjNk/LWQwY2QtNGIzNy1h/ZmY4LTNkYzZkMGRl/YzdhYQ",
+      "sizes": "513x513",
+      "type": "image/png"
+    }
+  ]
+}
